@@ -1,5 +1,19 @@
 # 选择性对焦编辑人像海报 Skill / Selective Focus Portrait Poster Skill
 
+## 作品展示 · Gallery
+
+以下海报均由本 Skill 生成。
+
+| | | | |
+|---|---|---|---|
+| <img src="assets/01-frame.png" width="200" alt="FRAME"> | <img src="assets/02-weizhi.png" width="200" alt="未止"> | <img src="assets/03-shiguang.png" width="200" alt="时光"> | <img src="assets/04-liuhen.png" width="200" alt="留痕"> |
+| FRAME · offset focus frame | 未止 · vertical sharp slice | 时光 · vertical sharp slice | 留痕 · offset focus frame |
+| <img src="assets/05-observe.png" width="200" alt="OBSERVE"> | <img src="assets/06-ruxi.png" width="200" alt="入戏"> | <img src="assets/07-signal.png" width="200" alt="SIGNAL"> | <img src="assets/08-motion.png" width="200" alt="MOTION"> |
+| OBSERVE · horizontal sharp slice | 入戏 · horizontal sharp slice | SIGNAL · floating focus window | MOTION · vertical sharp slice |
+| <img src="assets/09-huixiang.png" width="200" alt="回响"> | <img src="assets/10-tingjian.png" width="200" alt="听见"> | <img src="assets/11-zaichang.png" width="200" alt="在场"> | <img src="assets/12-ningshi.png" width="200" alt="凝视"> |
+| 回响 · floating focus window | 听见 · floating focus window | 在场 · offset focus frame | 凝视 · horizontal sharp slice |
+
+
 一张 9:16 写实编辑人像海报：人像大部分柔焦，只有一个对焦区域锐利清晰——让模糊与清晰来控制视线。
 
 ## 它能做什么
